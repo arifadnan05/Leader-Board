@@ -1,0 +1,68 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 40.42px;
+}
+.color{
+    background-color: #562EFF;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;  
+}
+.player-name{
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+    padding-left: 25px;
+}
+.line{
+    width: 61%;
+    margin: 0 auto;
+}
+
+.top-blog-1{
+    display: flex;
+    
+}
+.top-blog img{
+    width: 177px;
+    margin-left: 20px;
+}
+.blog-content{
+    margin-left: 20px;
+}
+.mentor-name{
+    font-size: 14.69px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+.mentor-name-color{
+    color: #562EFF;
+    font-size: 16px;
+    font-weight: 500;
+}
+.border-1{
+    border-style: none;
+}
+.icon-section img{
+    width: 15px;
+}
+.card-text{
+    color: #ED6B4F;
+    font-weight: 400;
+    font-size: 14.69px;
+}
+.icon-rating{
+    margin-left: 10px;
+}
+.clock-section{
+    display: flex;
+    justify-content: end;
+}
+.clock-section img{
+    width: 20.03px;
+}
